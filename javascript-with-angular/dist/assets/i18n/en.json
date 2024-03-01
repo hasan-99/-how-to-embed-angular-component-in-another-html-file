@@ -1,0 +1,494 @@
+{
+  "HOME": {
+    "NAME": "Home",
+    "EDIT": "Edit Event"
+  },
+  "MENU": {
+    "CONCERTS": {
+      "NAME": "Concerts"
+    },
+    "THEATER": {
+      "NAME": "Theater"
+    },
+    "OTHER": {
+      "NAME": "Other"
+    },
+    "FESTIVALS": {
+      "NAME": "Festivals"
+    },
+    "MOVIES": {
+      "NAME": "Movies"
+    },
+    "SPORT": {
+      "NAME": "Sport"
+    },
+    "FOR_KIDS": {
+      "NAME": "For kids"
+    },
+    "PUBLIC_ACCESS": {
+      "NAME": "Public Access"
+    },
+    "SIGN_IN": {
+      "NAME": "Sign in"
+    },
+    "CREATE_EVENT": {
+      "NAME": "Create Event"
+    },
+    "SALES": {
+      "NAME": "Sales"
+    },
+    "EVENT_MANAGEMENT": {
+      "NAME": "Events Management",
+      "CHILD": {
+        "EVENT_TABLE": "Event Table"
+      }
+    },
+    "SALES_MANAGEMENT": {
+      "NAME": "Sales Management",
+      "CHILD": {}
+    },
+    "REPORTING": {
+      "NAME": "Reporting"
+    }
+  },
+  "PAGES": {
+    "AUTH": {
+      "TITLE": "Welcome to",
+      "VERIFY": "Verify account",
+      "RESEND_OTP": "Resend the verification email",
+      "PASSWORD_CHANGED_SUCCESSFULLY": "Password changed successfully",
+      "CHECK_EMAIL": "please check your email.",
+      "MOBILE": "Mobile",
+      "TICKETBOX": "ticketBox",
+      "SIGN_UP":"Sign Up",
+      "EMAIL":"Email",
+      "FIRST_NAME":"First Name",
+      "LAST_NAME":"Last Name",
+      "PASSWORD":"Password",
+      "CONFIRM_PASSWORD":"Confirm Password",
+      "SIGN_IN_BUTTON":"Sign in",
+      "ACCOUNT_QUESTION":"Have an account?",
+      "SUBMIT":"Submit",
+      "NO_ACCOUNT_QUESTION":"No account?",
+      "FORGOT_PASSWORD":"Forgot password?",
+      "EMAIL_REQUIRED": "Email address is required",
+      "VALID_EMAIL": "Please provide a valid email address"
+    }
+  },
+  "GENERAL": {
+    "DISCOUNT": "Discount",
+    "PROMOTIONAL_CODE" : "Promotional Code",
+    "TICKET" : "Ticket",
+    "PRICE" : "Price",
+    "LOG_IN_TO_SUBMIT": "Please log in to submit/view your submitted responses easily and add extra tickets to your purchase.",
+    "UPDATE": "Update",
+    "DOORS_OPEN": "Doors Open",
+    "AT": "at :",
+    "FROM": "From",
+    "ERROR": "Error",
+    "LOGIN_IN": "Log In",
+    "SIGN_UP": "Sign Up",
+    "LOG_OUT": "Log Out",
+    "SHOWING": "Showing",
+    "TICKETS_HELD_FOR": " Tickets held for",
+    "CONTACT_DETAILS": "Contact Details",
+    "DELIVERY": "Delivery",
+    "ORDER_FEE": " Order Fee",
+    "ORDER_TOTAL": " Order Total",
+    "PAY_SECURELY": " Payment Securely",
+    "APPLY":"Apply",
+    "CLEAR":"Clear",
+    "ALL_SALES_ARE_FINAL": ". All sales are final. By selecting to pay securely, ",
+    "YOU_AGREE_TO_OUR": " you agree to our ",
+    "TERMS_OF_USE": "Terms Of Use",
+    "PRIVACY_POLICY": " Privacy Policy",
+    "AND": "and",
+    "TO": "to",
+    "OF": "of",
+    "MINS": "mins",
+    "RECORDS": "records",
+    "BUTTON_ADD_NEW": "Add New",
+    "BUTTON_SAVE": "Save",
+    "TITLE_ADD": "Add",
+    "TITLE_EDIT": "Edit",
+    "TITLE_DELETE": "Delete",
+    "TITLE_CANCEL": "Cancel",
+    "UPCOMING_EVENTS": "Upcoming Events",
+    "WE_SENT_A_CODE_TO": "We sent a code to",
+    "NO_EVENT": "There are no events for this filter",
+    "CHECK_LOG_IN": "To Complete Checkout, Please Log In.",
+    "GUEST_CHECKOUT": "Checkout as Guest..",
+    "CONFIRMATION_DIALOG": {
+      "CONFIRMATION": "Confirmation",
+      "MESSAGE_DELETE": "Are you sure that you want to DELETE this record?",
+      "ACCEPT_LABEL": "Yes",
+      "REJECT_LABEL": "No",
+      "REMOVE_CARD": "There are ticket(s) in your cart. Do you want to yo remove them?"
+    },
+    "ERROR_MESSAGES": {
+      "INVALID_DATA": "Please input valid data.",
+      "INVALID_TOKEN": " Invalid token. Please try again.",
+      "UNMATCHED_PASSWORDS": "Passwords don't match. Please try again.",
+      "UNMATCHED_EMAILS": "The email fields don't match. Please try again."
+    },
+    "SUCCESS": "Success",
+    "PAYMENT_SUCCESS": "Payment Success!",
+    "FORMS_SUBMITED": "Forms Submited",
+    "FILL_REQUIRED":"Please fill required fields",
+    "THANK_FOR_FORMS":"Thank you for submitting the form(s).",
+    "PAYMENT_CONFIRMATION_HAS": "The payment confirmation has been",
+    "BEEN_SENT_TO_YOUR_EMAIL_ADDRESS": " sent to your email address.",
+    "COOKIES": {
+      "ACCEPTALL_COOKIES": "Accept All",
+      "REJECTALL_COOKIES": "Reject All",
+      "CUSTOMIZE_COOKIES": "Customize",
+      "SAVE_MY_PREFERENCES_COOKIES": "Save My Preferences",
+      "REJECTALL_BUT_NECESSARY_COOKIES": "Accept Only Necessary",
+      "CONSENT_PART1": "We use cookies to improve your experience on our site. By using our site you consent to",
+      "CONSENT_PART2": "our use of cookies",
+      "CUSTOMIZATION_HEADER": "Cookies Preferences Customization",
+      "COOKIE_DESCRIPTION": "Description",
+      "COOKIE_TITLE": "Cookie",
+      "POLICY_INTRODUCTION": "ticketBox utilizes cookies to enhance your browsing experience and enable specific functionalities. Below, you'll find detailed information about each consent category for cookies.The cookies categorized as \"Necessary\" are essential for the basic functionalities of the site and will be stored on your browser automatically. Additionally, we use third-party cookies to analyze how you interact with our website, store your preferences, and display relevant content and advertisements based on your interests. However, these cookies will only be stored in your browser with your prior consent. You have the flexibility to choose whether to enable or disable some or all of these cookies. Please keep in mind that disabling certain cookies may impact your overall browsing experience. In case want to withdraw your consent you can always reach the cookie preferences options in the website footer, also you can send us an email to info@ticketbox.com.cy for any inquery.",
+      "NECESSARY_HEADER": "Necessary (Always Active)",
+      "NECESSARY_SUBHEADER": "These are the backbone of our website, enabling essential functions that make navigation smooth and seamless. They're automatically stored in your browser for a hassle-free experience.",
+      "COOKIE_PREFERENCE_NAME": "Cookies preferences",
+      "COOKIE_PREFERENCE_DESCRIPTION": "Stores your cookie preferences in case you give consent to some or all cookies.",
+      "AUTH_NAME": "Auth",
+      "AUTH_DESCRIPTION": "Stores your access token so that it helps to provide a secure experience.",
+      "ANALYTICS_HEADER": "Analytics",
+      "ANALYTICS_SUBHEADER": "These help us understand how you use our site, so we can make it even better. Mainly we are using PostHog tool to help in collecting and analysing data",
+      "POSTHOG_NAME": "PostHog",
+      "POSTHOG_DESCRIPTION": "A product analytics platform designed to help companies understand user behavior and gather insights to improve their products",
+      "LIVE_CHAT_NAME": "Live Chat (Tawk)",
+      "LIVE_CHAT_DESCRIPTION": "These help us chat with the visitors, respond to support tickets, and create a help center to empower customers to help themselves"
+    },
+    "MONTH": {
+      "JANUARY": "January",
+      "FEBRUARY": "February",
+      "MARCH": "March",
+      "APRIL": "April",
+      "MAY": "May",
+      "JUNE": "June",
+      "JULY": "July",
+      "AUGUST": "August",
+      "SEPTEMBER": "September",
+      "OCTOBER": "October",
+      "NOVEMBER": "November",
+      "DECEMBER": "December"
+    }
+  },
+  "FOOTER": {
+    "SUBSCRIBE_TO_OUR": "Subscribe to our",
+    "NEWSLETTER": "newsletter",
+    "LEARN_MORE": "Learn More",
+    "ABOUT_TICKETBOX": "About ticketBox",
+    "FAQ": "FAQ",
+    "CONTACT_US": "Contact Us",
+    "TICKETS_&_BOOKING": "Tickets & Booking",
+    "PAYMENT": "Payment",
+    "REFUND": "Refund",
+    "BUSINESS_INQUIRIES": "Business Inquiries",
+    "LEGAL": "Legal",
+    "TERMS_CONDITIONS": "Terms & Conditions",
+    "PRIVACY_POLICY": "Privacy Policy",
+    "COPYRIGHT": "© 2023 ticketBox | All Rights Reserved",
+    "EMAIL_ADDRESS": "Email Address",
+    "COOKIES": "Cookies",
+    "LIVE_CHAT": "Live Chat"
+  },
+  "BANNER": {
+    "DISCOVER_EVENTS": "Discover",
+    "EVENTS": "Events",
+    "CREATE_MOMENTS": "Create",
+    "MEMORIES": "Memories"
+  },
+  "FILTERS": {
+    "TODAY": "Today",
+    "ALL": "All",
+    "WEEKEND": "Weekend",
+    "TOMORROW": "Tomorrow",
+    "SELECT_DATE": "Select Date",
+    "SELECT_DATE_RANGE": "Select Date Range",
+    "DISTRICT": "District",
+    "TYPE_OF_EVENT": "Type Of Event",
+    "PICK_A_DATE": "Pick a date to begin your personal Experience.",
+    "ALL_CYPRUS": "All Cyprus",
+    "SELECT": "Select"
+  },
+  "API":{
+    "MUSIC_FESTIVAL": "Music Festival",
+    "OTHER": "Other",
+    "THEATER": "Theater",
+    "PUBLIC_ACCESS": "Public Access"
+  },
+  "TAB_VIEW": {
+    "ABOUT_THE_EVENT": "About",
+    "INFORMATION": "Information",
+    "VENUE": "Venue",
+    "GENERAL_INFORMATION": "general information",
+    "MAP_IS_NOT_AVAILABLE": "MAP IS NOT AVAILABLE"
+  },
+  "BUTTONS": {
+    "VIEW": "View",
+    "BOOK_TICKET": "Book Tickets",
+    "CANCEL": "Cancel",
+    "BOOK": "Book",
+    "DOWNLOAD": "DOWNLOAD",
+    "DOWNLOAD_ALL": "Download All Tickets",
+    "SEND_EMAIL_ORDER": "Send to my email",
+    "DOWNLOAD_INVOICE": "Download Invoice",
+    "SHOW_SUBMITTED_FORMS": "Show Submitted Forms",
+    "SCAN": "SCAN",
+    "CLEAR": "Clear",
+    "SEARCH": "Search",
+    "YEAH": "Yeah, Thanks",
+    "SUBMIT": "Submit",
+    "ADD_TO_CART_AND_PROCEED": "Add to Cart & Proceed",
+    "SOLD_OUT":"Sold Out",
+    "SELECT_SEATS": "Select Seats"
+  },
+  "INPUTS": {
+    "PASSWORD": "Password",
+    "CONFIRM_PASSWORD": "Confirm Password",
+    "EMAIL_ADDRESS": "Email Address",
+    "FULL_NAME": "Full Name",
+    "CONFIRM_EMAIL": "Confirm Email Address",
+    "PHONE_NUMBER": "Phone Number",
+    "NAME": "Name",
+    "SURNAME": "Surname",
+    "ENTER_6_DIGIT_CODE": "Enter Digit Code",
+    "SEND_6_DIGIT_CODE": " Send 6 Digit Number",
+    "PROMO_CODE":"I have a promotional code",
+    "PROMO_CODE_ENTER":"Enter a code"
+  },
+  "MESSAGES": {
+    "MAX_TICKETS": "You are only allowed 10 tickets per cart!",
+    "MAX_STOCK": "This is the maximum available stock for this type of ticket!",
+    "LIMIT": "Out of Stock",
+    "ONLY": "Only",
+    "TICKETS_LEFT": "tickets left!"
+  },
+  "PROFILE": {
+    "INPUT_YOUR_NEW_DESIRED": " Input your new desired password in the input fields below to create a new password. We strongly advise you to store is safely.",
+    "DELETE_PIC": "Delete profile picture",
+    "DELETE_PIC_DETAILS": "Are you sure you want to delete your profile picture?",
+    "UPDATE": "Update",
+    "UPDATE_DETAILS": "Profile Updated!",
+    "PASSWORD_DETAILS": "Password Updated successfully ",
+    "DELETE ": "Delete",
+    "COUNTRY&CITY_REQUIRED": "City and country are required if address is given.",
+    "MY_PROFILE": "My profile",
+    "MY_BOOKINGS": "My Bookings",
+    "LINKED_TICKETS": "Linked Tickets",
+    "PERSONAL_DETAILS": "Personal Details",
+    "EMAIL": "Email",
+    "FIRST_NAME": "First Name",
+    "LAST_NAME": "Last Name",
+    "EXTRA_INFORMATION": "Extra Information",
+    "MOBILE_PHONE": "Mobile Phone",
+    "SAVE_CHANGES": "Save Changes",
+    "CHANGE_PASSWORD": "Change Password",
+    "NEW_PASSWORD": "New Password",
+    "CURRENT_PASSWORD": "Current Password",
+    "CONFIRM_NEW_PASSWORD": "Confirm New Password",
+    "CITY": "City",
+    "COUNTRY": "Country",
+    "SEAT":"Row/Seat:",
+    "SECURITY": {
+      "OLD_PASS_REQUIRED": "Old Password Required",
+      "NEW_PASS_REQUIRED": "New Password Require",
+      "CONFIRM_PASS_REQUIRED": "Confirm Password Required",
+      "PASSWORD_REQUIRMENTS": "Password must be at least 5 characters, include at least one uppercase letter, one lowercase letter, and one special character.",
+      "PASS_MATCH": "Passwords do not match",
+      "UPDATE_PASSWORD": "Update Password",
+      "PASSWORD_UPDATED": "Password Updated!",
+      "PASSWORD_FAIL": "Password failed to update!"
+    },
+    "PASSWORDS_DO_NOT_MATCH": "Passwords do not match!",
+    "CURRENT_BOOKINGS": "Current Bookings",
+    "PAST_BOOKINGS": "Past Bookings",
+    "TICKET_NO": "Ticket No:",
+    "TYPE": "Type:",
+    "NO_BOOKINGS": "There are no bookings"
+  },
+  "READ_POLICY": "I have read and agree to the",
+  "UPDATE_POLICY": "Your Privacy Policy has been updated",
+  "MOBILE_ERROR": "Please enter a valid phone number",
+
+  "FAQ": {
+    "TITLE": "Frequently Asked Questions",
+    "INTRODUCTION": "Explore Our Comprehensive Guide to Address All Your Ticketing Queries and Ensure a Smooth, Hassle-Free Experience with ticketBox",
+
+    "Q2": "How do I find and purchase tickets for an event?",
+    "TICKET_PURCHASE_GUIDE": "Purchasing tickets for your desired events is a simple process on our platform. Here's a step-by-step guide:",
+    "STEPS": {
+      "1": "Find an event: Explore the list of available events on our homepage and select the one you wish to attend.",
+      "2": "Select tickets: Once you've chosen an event, specify the number of tickets you want and ensure you select the correct date and time.",
+      "3": "Book tickets: Click on the 'Book Tickets' button after choosing the desired number of tickets.",
+      "4": "Account requirement: To proceed with the purchase, you need to be registered on our platform. If you don't have an account, please follow the steps in Q1 of this FAQ to create one. If you already have an account, simply log in to continue.",
+      "5": "Confirm contact details: After signing in or creating an account, verify your contact details so that we can keep you updated with event-related information and notifications.",
+      "6": "Proceed to checkout: Once your contact details are confirmed, you can proceed to the checkout stage, where you'll be asked to provide payment information.",
+      "7": "Confirmation email: After successfully purchasing your tickets, you'll receive a confirmation email containing all the details about your purchase and the event.",
+      "8": "Find your tickets: You can access your tickets either through the purchase confirmation email or by visiting your profile on our platform and navigating to the “My Bookings” section, where you'll find all your tickets.",
+      "9": "Before making a purchase, make sure to read and understand the terms and conditions. In case of event cancellation or rescheduling, refer to the event's policy regarding refunds or exchanges."
+    },
+    "CREATE_ACCOUNT": {
+      "TITLE": "How do I create an account?",
+      "HINT": "To create an account, follow these steps:",
+      "STEPS": {
+        "1": "Provide your email address, which will be your username for logging in and receiving important updates.",
+        "2": "Enter your full name as it appears on your official documents for a personalized experience.",
+        "3": "Choose a secure password with a mix of uppercase and lowercase letters, numbers, and special characters.",
+        "4": "Confirm your password to avoid any mistakes.",
+        "5": "(Optional) You may add your mobile number for account recovery or verification purposes.",
+        "6": "After filling in the required information, click on the 'Register' or 'Create Account' button. An email will be sent to the provided address for verification. Click the link in the email to activate your account."
+      }
+    },
+
+    "RESET_PASSWORD": {
+      "TITLE": "How do I reset my password?",
+      "HINT": "If you've forgotten your password or are having trouble logging in, you can reset it by following these steps:",
+      "STEPS": {
+        "1": "Click on the 'Forgot Password' link: You can usually find this link on the sign-in page of our website or application.",
+        "2": "Enter the email address associated with your account: Make sure to enter the exact email address used during the account creation process. If the email address is associated with an existing account, you will be able to proceed with resetting your password.",
+        "3": "Check your email: We will send you an email containing a password reset link if your account exists. Don't forget to check your spam/junk mail folder as well, as the email may end up there.",
+        "4": "Follow the password reset link: Click on the link provided in the email to access a secure page where you can enter a new password.",
+        "5": "Reset your password: Choose a new secure password. It's essential to create a password that is easy for you to remember but difficult for others to guess. We recommend using a combination of uppercase and lowercase letters, numbers, and special characters for enhanced security.",
+        "6": "Login with your new password: Once you've successfully reset your password, you can log in to your account using the new password you just set.",
+        "7": "Please note that for security reasons, we do not have access to view or modify your password directly. You must go through the password reset process to create a new password."
+      }
+    },
+    "QUESTION_3": "What is the refund policy?",
+    "ANSWER_3": "The ability to exchange tickets for another event typically depends on the exchange policy of the event promoter. We recommend checking the specific exchange policy provided by the event promoter for the event you have tickets for.",
+    "QUESTION_4": "Can I exchange my tickets for another event?",
+    "ANSWER_4": "The ability to exchange tickets for another event typically depends on the exchange policy of the event promoter. We recommend checking the specific exchange policy provided by the event promoter for the event you have tickets for.",
+    "QUESTION_5": "Are accessible seating options available?",
+    "ANSWER_5": "Accessibility options can vary based on the event, venue, and event promoter. Any available accessibility options are typically listed in the additional information section of the event. If you have any further questions about accessibility options or would like to make a specific request, please contact us at \"info@ticketbox.com.cy\".",
+    "QUESTION_6": "How do I make a special request for seating or other accommodations?",
+    "ANSWER_6": "If you need special seating or other accommodations due to accessibility needs, please contact us directly at \"info@ticketbox.com.cy\". We will do our best to facilitate your request, based on the options available from the event promoter.",
+    "QUESTION_7": "What happens if an event is cancelled or rescheduled?",
+    "ANSWER_7": "If an event is cancelled or rescheduled,Q1 we will contact you with information about the next steps. This might include information about refunds, ticket exchanges, or new event dates and times.",
+    "QUESTION_8": "How will I be notified of any changes?",
+    "ANSWER_8": "We will notify you about any changes to your event, including cancellations or rescheduling, via email. If you have provided us with your phone number, we may also send you an SMS.\n\nPlease make sure that your contact information is accurate and up-to-date to ensure that you receive all important notifications.",
+    "ACCOUNT_REGISTRATION": "Account & Registration",
+    "BUYING_TICKETS": "Buying Tickets",
+    "REFUNDS_EXCHANGES": "Refunds & Exchanges ",
+    "ACCESSIBILITY_SPECIAL_REQUESTS": "Accessibility & Special Requests ",
+    "EVENT_CANCELLATIONS_RESCHEDULING": "Event Cancellations & Rescheduling "
+  },
+  "PRIVACY_POLICY": {
+    "PRIVACY_POLICY": "Privacy Policy",
+    "EFFECTIVE_DATE": "Effective date:",
+    "DATE": "14th of June, 2023",
+    "WELCOME": "Welcome to",
+    "TITLE_1": "1. Information We Collect",
+    "TITLE_2": "2. How We Use Your Information",
+    "TITLE_3": "3. How We Share Your Information",
+    "TITLE_4": "4. Links to third party websites",
+    "TITLE_5": "5. Retention of personal data",
+    "TITLE_6": "6. Cookies",
+    "TITLE_7": "7. What happens when you use public user forums",
+    "TITLE_8": "8. Your Rights",
+    "TITLE_9": "9. Changes to This Policy",
+    "TITLE_10": "10. Security",
+    "TITLE_11": "11. Contact Us",
+    "SUBTITLE_1": "1.1. Collection and use of personal data",
+    "SUBTITLE_2": "1.2. Information you give us",
+    "SUBTITLE_3": "1.3. Information we collect about you",
+    "SUBTITLE_4": "1.4. Information from third parties",
+    "SUBTITLE_5": "1.5. If you do not provide personal data",
+    "SUBTITLE_6": "3.1. Sharing with third parties",
+    "SUBTITLE_7": "3.2. Sharing with event promoters",
+    "LIST_TITLE_1": "Authentication Cookie: ",
+    "LIST_TITLE_2": "Cookie Preferences Answer: ",
+    "LIST_TITLE_3": "Cart Cookie: ",
+    "LIST_1": "Process transactions and send you related information, including confirmations and invoices.",
+    "LIST_2": "Provide, maintain, and improve our services.",
+    "LIST_3": "Send you technical notices, updates, and support messages.",
+    "LIST_4": "Respond to your comments, questions, and requests and provide customer service.",
+    "LIST_5": "Communicate with you about products, services, offers, promotions, and events, and provide news and information we think will be of interest to you.",
+    "LIST_6": "This cookie is crucial for our site's functionality and security. It is used to maintain an authenticated session and to remember that you are logged in, which ensures you can access the site's restricted pages after logging in. Please note that this cookie is necessary for the functionality of our website, and disabling it may affect your ability to use our site.",
+    "LIST_7": "We use this cookie to remember your preferences regarding the use of cookies on our website. This means that you don't have to set your preferences every time you visit our site, as we can remember them for your future visits.",
+    "LIST_8": "While we currently do not store any information in this cookie, we intend to use it in the future to manage and remember the items in your shopping cart as you browse our website. This cookie will enable you to return to your cart without losing the items you have selected.",
+    "LIST_9": "The right to be informed about the collection and use of your personal data.",
+    "LIST_10": "The right of access to your personal data.",
+    "LIST_11": "The right to correct any mistakes in your information.",
+    "LIST_12": "The right to erase your personal data.",
+    "LIST_13": "The right to limit or object to our processing of your data.",
+    "LIST_14": "The right to stop direct marketing messages and withdraw your consent to other consent-based processing at any time.",
+    "LIST_15": "The right to request the transfer of your personal data either to you or to other service providers.",
+    "LIST_16": "The right to complain to the Cyprus Data Protection Supervisory Authority.",
+    "TEXT_1": "('we', 'us', 'our', 'ticketBox'). We are committed to protecting and respecting your privacy. This Privacy Policy applies when you visit our website, use our services, or interact with us. It describes how we collect, use, disclose, and safeguard your information when you visit our website and use our services.",
+    "TEXT_2": "We collect your personal data for the primary purpose of providing services to you, providing information to our customers, making the experience of the customers in our platform better, based on their preferences, and marketing.",
+    "TEXT_3": "We may also use your personal data for secondary purposes closely related to the primary purpose, in circumstances where you would reasonably expect such use or disclosure.",
+    "TEXT_4": "When we collect personal data, we will explain to you, where appropriate and where possible, why we collect the information and how we intend to use it.",
+    "TEXT_5": "This is the information about you that you give us by filling in forms on",
+    "TEXT_6": "or by corresponding with us by phone, email or otherwise. It includes information you provide when you register for an account, purchase tickets, subscribe to our newsletter, and when you report a problem with our site.",
+    "TEXT_7": "The personal information you provide may include your name, address, email address and phone number, financial and credit card information and other information about you to enable us to provide you with our services.",
+    "TEXT_8": "When you visit our website or use our services, we may collect information about your IP address, information about your visit, and how you use our website and services, including information about the browser type, the browser version, the pages of our Service that you have visited, the time spent on those pages, unique device identifiers and other diagnostic data.",
+    "TEXT_9": "We may collect information from third parties, such as our payment service providers, advertising networks, and analytics providers.",
+    "TEXT_10": "Where we are required to collect personal data by law or under the terms of a contract we have entered into with you (through your transaction) and you do not provide that data when requested, we may not be able to perform the contract we have entered into or are attempting to enter into with you and to further provide you with the Service for which you have registered. In this case, we may need to cancel a service you have with us, but we will let you know if this is the case.",
+    "TEXT_11": "We use the information we collect about you to:",
+    "TEXT_12": "We do not sell, trade, or rent your personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners and trusted affiliates.",
+    "TEXT_13": "We share your personal information with event promoters for events for which you buy tickets. Only authorised personnel from the Event Promoter and ticketBox have access to this shared information.",
+    "TEXT_14": "With your explicit consent, we may share your personal data with trusted third parties such as artists, event promoters, or sponsors affiliated with us. These parties may utilize your data for marketing or promotional purposes, enabling them to provide information about products or services closely related to your interests.",
+    "TEXT_15": "These event promoters may not use or disclose your personal data except as necessary to perform services on our behalf or to comply with legal requirements.",
+    "TEXT_16": "We may provide links to third party websites or information as a service to our users. If you use these links, you will leave our platform. Such links do not constitute or imply an endorsement, sponsorship, or recommendation by us of the third person/party's website or the information contained therein, and we shall not be responsible or liable for using them. Such use is subject to the terms of use and privacy policies applicable to those websites.",
+    "TEXT_17": "We retain personal data, as necessary, for the duration of the relevant business relationship. We may also retain personal data for longer than the duration of the business relationship if we need to, for protection against legal claims, for use regarding analysis or historical recording, or to comply with our information management policies and programs.",
+    "TEXT_18": "Upon your request to delete your personal data, we will use reasonable efforts to delete all instances of the information in its entirety. For access, correction, or deletion requests, please see the 'Your Rights' section of this Privacy Policy.",
+    "TEXT_19": "We use cookies on our Platform to personalize and enhance your experience. These cookies include:",
+    "TEXT_20": "Please be aware that these cookies are designed to improve your browsing experience and make our website function correctly. They do not give us access to your computer or any personal information about you, beyond the data you choose to share with us. For more information about cookies, see our Cookie Policy",
+    "TEXT_21": "You should be aware that any time you publicly disclose information online, that information may be collected and used by others. We are not responsible for the actions or policies of third parties which collect information that users publicly disclose in such forums on the Websites.",
+    "TEXT_22": "As a user, you have the following rights:",
+    "TEXT_23": "You have the right to file a complaint at any time to the competent authorities, the Cyprus Data Protection Supervisory Authority (www.dataprotection.gov.cy). We would, however, appreciate the opportunity to address your concerns prior you inform the related authorities, so please contact us in the first instance.",
+    "TEXT_24": "We reserve the right to update or change our Privacy Policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage you to check this page frequently for any changes to stay informed about how we are protecting the personal information we collect.",
+    "TEXT_25": "We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. These include internal reviews of our data collection, storage and processing practices, and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.",
+    "TEXT_26": "However, these measures do not guarantee that your information will not be accessed, disclosed, altered, or destroyed by a breach of such security measures. By using our Service, you acknowledge that you understand and agree to undertake these risks.",
+    "TEXT_27": "If you have any questions about our Privacy Policy, please contact us at "
+  },
+  "ABOUT_US": {
+    "WELCOME": "Welcome to ticketBox",
+    "WELCOME_TEXT": "Welcome to ticketBox, your one-stop online ticketing platform for a wide variety of events, including Concerts, Theatre, Festivals, Movies, Sports, and more! We strive to simplify and enrich your event-going experience through our intuitive web application and native iOS and Android apps (coming soon!).",
+    "OUR_MISSION": "OUR MISSION",
+    "SIMPLIFY": "Simplify",
+    "SIMPLIFY_TEXT": "ticketBox's mission is to simplify and enrich the event-going experience by providing a user-friendly, secure, and accessible platform for discovering and purchasing tickets to a wide variety of events. We strive to create memorable moments and connect people through shared experiences, all while promoting local talent and supporting the communities we serve.",
+    "MISSION": "MISSION",
+    "OUR_VISION": "OUR VISION",
+    "INNOVATE": "Innovate",
+    "INNOVATE_TEXT": "Our vision is to become the leading online ticketing platform, renowned for our commitment to customer satisfaction, innovation, and collaboration with event organizers and venues. We aim to revolutionize the way people discover, share, and engage with events, fostering a global community united by the love of live experiences.",
+    "VISION": "VISION"
+  },
+  "FORGOT_PASSWORD": {
+    "FORGOT": "Forgot Password",
+    "DESCRIPTION": "Don’t worry we can help you out! If you still remember your email address you can quickly reset your password. Just input that information in the fields below and clock on the button. This will send you a new email that will link you to the password change website.",
+    "EMAIL": "Email",
+    "BACK": "Back",
+    "RESET_PASSWORD": "Reset Password"
+  },
+  "TABLE": {
+    "NAME": "Name",
+    "ACTION": "Action",
+    "TICKETID": "Ticket Id",
+    "RESPONSEID": "Response Id",
+    "FIELDID": "Field Id",
+    "LABEL": "Label",
+    "RESPONSE": "Response",
+    "NO_DATA": "No data available",
+    "TO": "to",
+    "OF": "of",
+    "SHOWING_ENTRIES": "Showing",
+    "ENTRIES": "entries",
+    "TICKET_TYPE": "Ticket Type",
+    "PRICE": "Price",
+    "QUANTITY": "Quantity",
+    "SOLD_OUT":"Sold Out"
+  },
+  "EVENT_CARD": {
+    "COLLECTION_DATE": " + more"
+  },
+  "INVALID_MAESSAGE": {
+    "INVALID_PRMO_CODE": "Invalid PromoCode.",
+    "TIME_OUT": "Cart expired"
+  }
+}
